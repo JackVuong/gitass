@@ -3,7 +3,7 @@
 int main()
 {
 	Number<int> n(12);
-	cout<<n;
+	cout<<nooo;
 
 	return 0;
 }
