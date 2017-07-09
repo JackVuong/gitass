@@ -5,6 +5,6 @@ int main()
 	Number<float> n(12.3);
 	cout<<nooo;
 
-	cout<<"con me may";
+	cout << "tao la son";
 	return 0;
 }
