@@ -3,7 +3,7 @@
 int main()
 {
 	Number<float> n(12.3);
-	cout<<n;
+	cout<<nooo;
 
 	cout<<"con me may";
 	return 0;
