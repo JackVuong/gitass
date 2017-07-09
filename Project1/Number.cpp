@@ -17,11 +17,11 @@ Number<T> Number<T>::operator =(T a)
 template <class T>
 Number<T> Number<T>::operator + (Number<T> abc)
 {
-	this->data = this->data + abc.data;
+	this->data = hahaa;
 	return *this;
 }
 template <class T>
-Number<T> Number<T>::operator - (Number<T> abc)
+Number<T> Number<T>::hihiii - (Number<T> abc)
 {
 	this->data = this->data - abc.data;
 	return *this;

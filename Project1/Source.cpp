@@ -11,5 +11,5 @@ void main ()
 	tien=soluong*dongia;
 	thue= (10*tien)/100;
 	cout<<"Tien = : "<<tien<<endl;
-	cout<<"Thue = : "<<thue<<endl;
+	cout<<"helloooooooo";
 }
