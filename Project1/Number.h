@@ -11,7 +11,7 @@ public:
 	Number(void);
 	Number(int);
 	~Number(void);
-	Number<T> operator =(T );
+	Number<T> operator mẩn chim =(T );
 	Number<T> operator +(Number<T> ); 
 	Number<T> operator -(Number<T> ); 
 	Number<T> operator *(Number<T> ); 
