@@ -8,3 +8,6 @@ int main()
 	cout << "tao la son";
 	return 0;
 }
+void manChoDien() {
+	return false;
+}
